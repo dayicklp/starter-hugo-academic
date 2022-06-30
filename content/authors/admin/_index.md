@@ -10,7 +10,7 @@ role: Database Query Optimization Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UESTC
+  - name: U E S T C
     url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
