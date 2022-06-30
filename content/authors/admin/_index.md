@@ -6,11 +6,11 @@ title: Yupeng Diao
 superuser: true
 
 # Role/position/tagline
-role: Database query optimization enthusiast
+role: Database Query Optimization Enthusiast
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Electronic Science and Technology of China
+  - name: UESTC
     url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,14 +18,14 @@ bio: My research interests include AI4DB and DB4AI
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Query Optimization
+  - Artificial Intelligence for Database
+  - Trajectory Prediction
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Computer Science
+    - course: Master in Computer Science
       institution: University of Electronic Science and Technology of China
       year: 2020
     - course: BSc in Computer Science
@@ -45,7 +45,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dayicklp
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
