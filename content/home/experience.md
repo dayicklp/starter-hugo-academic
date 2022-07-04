@@ -25,6 +25,7 @@ experience:
   - title: R&D Intern
     company: PingCAP
     company_url: ''
+    company_logo: ''
     location: Beijing
     date_start: '2022-04'
     date_end: ''
@@ -33,6 +34,7 @@ experience:
   - title: Cloud BU Intern
     company: Huawei
     company_url: ''
+    company_logo: ''
     location: Chengdu
     date_start: '2021-06'
     date_end: '2021-11'
