@@ -68,4 +68,5 @@ Hello everyone, I am a database graduate student who has been practicing for two
 
 If someone offered me a good salary to do database research I would certainly do it, but if it was something unrelated to query optimization, I would probably turn it down. I am a person who loves knowledge and advocates freedom. I am very glad that you can see my home page. I hope we can get to know each other.
 
+You are welcome to contact me to brainstorm and grow happily together.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
