@@ -23,7 +23,7 @@ feature:
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Optimizer
+    name: Cost Model and Cardinality Estimation
   - description: 10%
     icon: camera-retro
     icon_pack: fas
