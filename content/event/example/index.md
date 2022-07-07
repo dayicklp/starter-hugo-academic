@@ -1,28 +1,30 @@
 ---
-title: Example Talk
+title: AI for DB (20th VLDBSS)
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: VLDB Summer School
+event_url: http://www.vldbss.org/
 
-location: Wowchemy HQ
+location: Chunshen Lake Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Chunshen Lake
+  city: Soochow
+  region: Jiangsu
+  postcode: ''
+  country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary:Founded under the auspices of VLDB Foundation and under the database Committee of China Computer Society, the Chinese Database Academy aims to provide a learning and exchange opportunity for Chinese teachers, scholars and graduate students who are engaged in or are interested in database theory and technology research. Every year, the school invites internationally renowned scholars in database and related fields to give lectures in China irregularly, so as to promote China's comprehensive and timely understanding of the frontiers of international database science, and on this premise, based on application research and development of unique data management technologies and systems.
+
+The 21st VLDB Summer School will be held from July 8 to July 13, 2022 in Suzhou, Jiangsu Province. It is organized by Advanced Data Analysis Laboratory, School of Computer Science and Technology, Soochow University, and co-organized by Renmin University of China and PingCAP. 
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2022-07-08T8:00:00Z'
+date_end: '2022-07-13T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors: []
 tags: []
